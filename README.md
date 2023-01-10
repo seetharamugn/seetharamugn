@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @seetharamugn
-- 👀 I’m interested in python and golang
+- 👀 I’m a backend developer in java, python and golang
 - 🌱 I’m currently learning new technology
 - 💞️ I’m looking to collaborate on integration
-- 📫 How to reach me ramugn98@gmail.com
+- 📫 How to reach me seetharamugn@gmail.com
 
 <!---
 seetharamugn/seetharamugn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
