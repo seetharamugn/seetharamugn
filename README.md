@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seetharamugn
 - 👀 I’m a backend developer in java, python and golang
-- 🌱 I’m currently learning new technology
+- 🌱 I’m building the cross platfrom integration for developer and normal user
 - 💞️ I’m looking to collaborate on integration
 - 📫 How to reach me seetharamugn@gmail.com
 
